@@ -31,3 +31,17 @@ This is a starter authentication boilerplate for Node.js & Express projects with
 - cd role-based-auth-starter
 - npm install
 - npm run dev
+```
+
+## 📦 Dependencies
+- This project uses the following key npm packages:
+- You can find all dependencies listed in package.json.
+
+``` bash
+- npm install express mongoose bcryptjs jsonwebtoken cors dotenv
+```
+
+##  Contribute
+
+Feel free to fork this and improve it!
+
